@@ -22,4 +22,4 @@ GridSense is an IoT-based Smart Grid Monitoring System developed using Python. T
 3. Run all the cells to execute the project.
 
 ## Author
-- D P SupriYA
+- D P Supriya
